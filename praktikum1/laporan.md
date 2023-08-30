@@ -1,13 +1,44 @@
 # Laporan Praktikum Pertemuan 1
-NIM   : 2241760054 
-
+JOBSHEET 1 DASAR PEMROGRAMAN
+ 
 NAMA  : DIMAS ROSYIDIN
 
-KELAS : SIB 2B
-## Latihan 1
-1.  
-2. 
+NIM   : 2241760054  
 
-*
-<img src = "dim.jpg">
+KELAS : SIB 2B
+
+* ### PEMILIHAN
+
+
+<img src = "pemilihan.jpg">
+
+* ### PERULANGAN
+
+
+<img src = "perulangan.jpg">
+
+
+* ### ARRAY
+<img src = "array.jpg">
+
+
+* ### FUNGSI
+
+<img src = "fungsi.jpg">
+
+
+* ### TUGAS 1
+<img src = "tugas1.jpg">
+
+
+* ### TUGAS 2
+<img src = "tugas2.jpg">
+
+
+* ### TUGAS 3 
+<img src = "tugas2.jpg">
+
+* ### TUGAS 4 
+<img src = "tugas4.jpg">
+
 
