@@ -231,7 +231,7 @@ OUTPUT :
 <img src = "mahasiwa3.png">
 
 - data mahasiswa sesudah disorting secara asc menggunakan selectionsort
-<img src = "mahasiwa4.png">
+<img src = "mahasiswa4.png">
 
 5.3.6 Jawaban
 
