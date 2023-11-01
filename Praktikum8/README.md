@@ -15,6 +15,8 @@ JURUSAN : TEKNOLOGI INFORMASI
 * ### Praktikum 1
 
 OUTPUT :
+
+
 <img src = "praktikum1.png">
 
 Pertanyaan
@@ -64,6 +66,9 @@ tersebut?
 * ### Praktikum 2
 
 OUTPUT :
+
+
+
 <img src = "praktikum2.png">
 
 Pertanyaan
@@ -101,6 +106,9 @@ head.prev = null;
 * ### Praktikum 3
 
 OUTPUT :
+
+
+
 <img src = "praktikum3.png">
 
 Pertanyaan
