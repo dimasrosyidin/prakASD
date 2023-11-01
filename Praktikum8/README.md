@@ -138,6 +138,9 @@ Jawab : sama namun pada kode 2 memiliki kode program lebih singkat jika linked l
 * ### Tugas Praktikum 1
 
 OUTPUT :
+
+
+
 <img src = "tugas1.1.png">
 
 <img src = "tugas1.2.png">
@@ -150,11 +153,13 @@ OUTPUT :
 
 * ### Tugas Praktikum 2
 
+OUTPUT :
+
 <img src = "tugas2.1.png">
 
 <img src = "tugas2.2.png">
 
-<img src = "tugas2,3.png">
+<img src = "tugas2.3.png">
 
 <img src = "tugas2.4.png">
 
