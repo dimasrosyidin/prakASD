@@ -15,7 +15,7 @@ JURUSAN : TEKNOLOGI INFORMASI
 * ### Praktikum 1
 
 OUTPUT :
-<img src = "images/praktikum1.png">
+<img src = "praktikum1.png">
 
 Pertanyaan
 - Jelaskan perbedaan antara single linked list dengan doubly linked lists!
@@ -64,7 +64,7 @@ tersebut?
 * ### Praktikum 2
 
 OUTPUT :
-<img src = "images/praktikum2.png">
+<img src = "praktikum2.png">
 
 Pertanyaan
 
@@ -101,7 +101,7 @@ head.prev = null;
 * ### Praktikum 3
 
 OUTPUT :
-<img src = "images/praktikum3.png">
+<img src = "praktikum3.png">
 
 Pertanyaan
 
@@ -138,14 +138,24 @@ Jawab : sama namun pada kode 2 memiliki kode program lebih singkat jika linked l
 * ### Tugas Praktikum 1
 
 OUTPUT :
-<img src = "images/tugas1.1.png">
+<img src = "tugas1.1.png">
 
-<img src = "images/tugas1.2.png">
+<img src = "tugas1.2.png">
 
-<img src = "images/tugas1,3.png">
+<img src = "tugas1,3.png">
 
-<img src = "images/tugas1.4.png">
+<img src = "tugas1.4.png">
 
 
 
 * ### Tugas Praktikum 2
+
+<img src = "tugas2.1.png">
+
+<img src = "tugas2.2.png">
+
+<img src = "tugas2,3.png">
+
+<img src = "tugas2.4.png">
+
+<img src = "tugas2.5.png">
