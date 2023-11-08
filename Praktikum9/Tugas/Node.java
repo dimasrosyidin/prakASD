@@ -1,4 +1,4 @@
-package Praktikum9.Tugas1;
+package Praktikum9.Tugas;
 
 public class Node {
     int data;
