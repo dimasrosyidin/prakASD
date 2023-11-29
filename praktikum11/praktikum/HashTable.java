@@ -3,7 +3,17 @@ import java.util.ArrayList;
 public class HashTable {
     private int size = 7;
     private Node[] dataMap;
-
+    
+class Node {
+        String key;
+        int value;
+        Node next;
+        
+        Node(String key, int value) {
+            this.key = key;
+            this.value = value;
+        }
+    }
 
     public HashTable() {
         this.dataMap = new Node[this.size];
